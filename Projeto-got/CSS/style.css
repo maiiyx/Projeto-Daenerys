@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@100;200;400&family=Merriweather&family=Rubik+Iso&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: #000000;
+    color: #FFFFFF;
+}
+
+p{
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 20px;
+}
+
+.nav{
+    text-align: center;
+    margin: 2rem;
+}
+
+.nav-link{
+    color: #FFFFFF;
+    font-size: 30px;
+    text-decoration: none;
+    padding: 5rem;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 900;
+}
+.imagem{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+}
+
+.titulo{
+    font-size: 30px;
+    text-align: center;
+    padding: 20px;
+}
+
+footer{
+    padding: 50px;
+    font-size: 50px;
+    text-align: center;
+}
